@@ -5,14 +5,20 @@
  */
 package viewSearching_System;
 
+import java.awt.Dimension;
+import java.awt.Toolkit;
 import java.io.File;
+import java.util.ArrayList;
 import javax.swing.JFileChooser;
 import model.Document;
 import model.InvertedIndex;
+import model.SearchingResult;
+import model.TableModelDokumen;
 
 public class Main extends javax.swing.JFrame {
 
     public static InvertedIndex index;
+    TableModelDokumen model;
 
     /**
      * Creates new form Main
@@ -20,6 +26,11 @@ public class Main extends javax.swing.JFrame {
     public Main() {
         initComponents();
         index = new InvertedIndex();
+        setTitle("Searching");
+        Dimension layar = Toolkit.getDefaultToolkit().getScreenSize();
+        int x = layar.width / 2 - this.getSize().width / 2;
+        int y = layar.height / 2 - this.getSize().height / 2;
+        this.setLocation(x, y);
     }
 
     /**
@@ -110,6 +121,11 @@ public class Main extends javax.swing.JFrame {
         });
 
         ChooseFile.setText("Choose File");
+        ChooseFile.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ChooseFileActionPerformed(evt);
+            }
+        });
         FileBar.add(ChooseFile);
 
         jMenuBar1.add(FileBar);
@@ -138,9 +154,19 @@ public class Main extends javax.swing.JFrame {
 
     private void SearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SearchActionPerformed
         // TODO add your handling code here:
+        String query = Search.getText();
+        ArrayList<SearchingResult> hasilCari = index.searchCosineSimilarity(query);
+        System.out.println(hasilCari.size());
+        model = new TableModelDokumen(hasilCari);
+        jTable1.setModel(model);
     }//GEN-LAST:event_SearchActionPerformed
 
     private void FileBarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileBarActionPerformed
+        // TODO add your handling code here:
+        
+    }//GEN-LAST:event_FileBarActionPerformed
+
+    private void ChooseFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ChooseFileActionPerformed
         // TODO add your handling code here:
         JFileChooser fileChooser = new JFileChooser();
         int returnVal;
@@ -167,7 +193,7 @@ public class Main extends javax.swing.JFrame {
             // lakukan indexing atau buat dictionary
             getIndex().makeDictionaryWithTermNumber();
         }
-    }//GEN-LAST:event_FileBarActionPerformed
+    }//GEN-LAST:event_ChooseFileActionPerformed
 
     /**
      * @param args the command line arguments
