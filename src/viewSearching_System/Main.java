@@ -150,13 +150,16 @@ public class Main extends javax.swing.JFrame {
 
     private void inputWordActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inputWordActionPerformed
         // TODO add your handling code here:
+        String query = Search.getText();
+        ArrayList<SearchingResult> hasilCari = index.searchCosineSimilarity(query);
+        model = new TableModelDokumen(hasilCari);
+        jTable1.setModel(model);
     }//GEN-LAST:event_inputWordActionPerformed
 
     private void SearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SearchActionPerformed
         // TODO add your handling code here:
         String query = Search.getText();
         ArrayList<SearchingResult> hasilCari = index.searchCosineSimilarity(query);
-        System.out.println(hasilCari.size());
         model = new TableModelDokumen(hasilCari);
         jTable1.setModel(model);
     }//GEN-LAST:event_SearchActionPerformed
