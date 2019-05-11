@@ -5,14 +5,21 @@
  */
 package viewSearching_System;
 
+import java.io.File;
+import javax.swing.JFileChooser;
+import model.Document;
+import model.InvertedIndex;
 
 public class Main extends javax.swing.JFrame {
+
+    public static InvertedIndex index;
 
     /**
      * Creates new form Main
      */
     public Main() {
         initComponents();
+        index = new InvertedIndex();
     }
 
     /**
@@ -96,6 +103,11 @@ public class Main extends javax.swing.JFrame {
         );
 
         FileBar.setText("File");
+        FileBar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                FileBarActionPerformed(evt);
+            }
+        });
 
         ChooseFile.setText("Choose File");
         FileBar.add(ChooseFile);
@@ -127,6 +139,35 @@ public class Main extends javax.swing.JFrame {
     private void SearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SearchActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_SearchActionPerformed
+
+    private void FileBarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileBarActionPerformed
+        // TODO add your handling code here:
+        JFileChooser fileChooser = new JFileChooser();
+        int returnVal;
+        returnVal = fileChooser.showOpenDialog(this);
+        // set fileCjooser hanya directory
+        fileChooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        if (returnVal == JFileChooser.APPROVE_OPTION) {
+            // baca directory
+            File dir = fileChooser.getSelectedFile();
+            // baca isi directory
+            File files[] = dir.listFiles();
+            for (int i = 0; i < files.length; i++) {
+                // buat document baru
+                Document doc = new Document();
+                doc.setId(i); // set idDoc sama dengan i
+                // baca isi file
+                // Isi file disimpan di atribut content dari objeck document
+                // variabel i merupakan idDocument;
+                File file = files[i];
+                doc.readFile(i, file);
+                // masukkan file isi directory ke list of document pada obye index
+                getIndex().addNewDocument(doc);
+            }
+            // lakukan indexing atau buat dictionary
+            getIndex().makeDictionaryWithTermNumber();
+        }
+    }//GEN-LAST:event_FileBarActionPerformed
 
     /**
      * @param args the command line arguments
@@ -163,6 +204,7 @@ public class Main extends javax.swing.JFrame {
         });
     }
 
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JMenuItem ChooseFile;
     private javax.swing.JMenu FileBar;
@@ -174,4 +216,16 @@ public class Main extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable jTable1;
     // End of variables declaration//GEN-END:variables
+    
+    public InvertedIndex getIndex() {
+        return index;
+    }
+
+    /**
+     * @param index the index to set
+     */
+    public void setIndex(InvertedIndex index) {
+        this.index = index;
+    }
+
 }
