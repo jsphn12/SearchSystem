@@ -1,0 +1,1685 @@
+KARYA TULIS ILMIAH MAHASISWA BERPRESTASI NASIONAL 2018
+MODEL LAYANAN KESEHATAN INTEGRATED HEALTH CARE MENUJU INDONESIA SEHAT DI ERA DISRUPSI TEKNOLOGI
+i
+LEMBAR PENGESAHAN
+ii
+SURAT PERNYATAAN
+iii
+KATA PENGANTAR
+Puji hanya
+kepada
+Allah SWT yang telah memberi petunjuk dan hidayah
+-
+Nya sehingga penulis dapat menyelesaikan
+Karya Tulis Ilmiah
+dengan judul
+“
+Model Layanan Kesehatan
+Integrated
+Health
+Care
+Menuju Indonesia Sehat di
+Era Disrupsi Teknologi
+”.
+Dengan selesainya
+Karya Tulis
+ini, penulis
+mengucapkan terimakasih yang tak terhingga kepada:
+1.
+Kementerian Riset Teknologi dan Pendidikan Tinggi Republik Indonesia
+selaku penyelenggara Pemilihan
+Mahasiswa Berprestasi Nasional 201
+8
+.
+2.
+Prof. Dr. Ir. Arief Prajitno, MS, Wakil Rektor Bidang Kemahasiswaan
+Universitas Brawijaya.
+3.
+Tim
+P
+embimbing Pilmapres Universitas Brawijaya yang bersedia
+membimbing dengan sabar
+dan
+senantiasa memberi semangat, sehingga
+penulis dapat menyelesaikan karya tulis ini
+.
+4.
+Prof. Dr. dr. Yuyun Yueniwati, Sp.Par(K) se
+laku Wakil Dekan Bidang
+Kemahasiswaan FK UB
+yang memberikan fasilitas dan dukungan,
+sehingga
+penulis dapat menyelesaikan karya tulis ini
+.
+5.
+Dr. dr. Sri Andarini, M.Kes de
+kan Fakultas Kedokteran Universitas
+Brawijaya yang telah memberikan penulis kesempatan menuntut ilmu di
+Fakultas Kedokteran Universitas Brawijaya.
+6.
+Semua pihak yang telah membantu dalam menyelesaikan
+karya tulis ini y
+ang
+tidak dapat penulis sebutkan satu pe
+rsatu.
+P
+enulis membuka diri untuk segala saran dan kritik yang membangun
+guna
+perbaikan di masa yang akan datang
+.
+Se
+moga
+karya tulis ilmiah ini
+dapat
+memberikan
+manfaat
+dan kontribusi bagi bangsa Indonesia
+.
+Malang,
+1
+3
+Ap
+r
+il
+201
+8
+Penuli
+s
+iv
+D
+AFTAR ISI
+LEMBAR PENGESAHAN
+SURAT PERNYATAAN
+................................
+.........
+i
+SURAT PERNYATAAN
+................................
+................................
+......................
+ii
+KATA PENGANTAR
+................................
+................................
+..........................
+iii
+DAFTAR ISI
+................................
+................................
+................................
+.........
+iv
+DAFTAR GAMBAR
+................................
+................................
+.............................
+v
+RINGKASAN (
+SUMMARY
+)
+................................
+................................
+................
+vi
+PENDAHULUAN
+................................
+................................
+................................
+..
+1
+1.1 Latar Belakang
+................................
+................................
+................................
+..........
+1
+1.2 Rumusan Masalah
+................................
+................................
+................................
+.....
+2
+1.3
+Uraian Singkat Gagasan
+................................
+................................
+...........................
+2
+1.4
+Tujuan
+................................
+................................
+................................
+.......................
+3
+1.5
+Manfaat
+................................
+................................
+................................
+.....................
+3
+1.6
+Metode Penulisan
+................................
+................................
+................................
+......
+3
+BAB II.
+TINJAUAN PUSTAKA
+................................
+................................
+..........
+4
+2.1 Program Indonesia Sehat
+................................
+................................
+..........................
+4
+2.2 Integrasi Layanan Kesehatan (
+Integrated Care
+)
+................................
+.......................
+4
+2.3
+Era Disrupsi Teknologi
+................................
+................................
+.............................
+5
+BAB III.
+ANALISIS SINTESIS
+................................
+................................
+...........
+6
+3.1
+Analisis Permasalahan Kesehatan di Indonesia
+................................
+........................
+6
+3.2 Potensi Model Layanan Kesehatan
+Integrated
+Health
+Care
+di Era Disrupsi
+Teknologi
+................................
+................................
+................................
+..................
+8
+3.3 Sintesis
+................................
+................................
+................................
+......................
+9
+3.3.1 Formulasi Model Layanan Kesehatan
+I
+ntegr
+ated Health Care
+di Indonesia
+.....
+9
+3.3.2
+Potensi Penggunaan Model Layanan Kesehatan
+Integra
+ted
+Health
+Care
+......
+11
+3.3.3
+Strategi Penunjang Model
+................................
+................................
+...............
+13
+3.3.4
+Strategi Implemen
+tasi
+................................
+................................
+.....................
+14
+BAB IV.
+SIMPULAN DAN REKOMENDASI
+................................
+................
+15
+4.1 Simpulan
+................................
+................................
+................................
+.................
+15
+4.2 Rekomendasi
+................................
+................................
+................................
+...........
+15
+D
+AFTAR
+P
+USTAKA
+................................
+................................
+..........................
+16
+v
+DAFTAR GAMBAR
+Gambar 1. Model Layanan Kesehatan
+................................
+................................
+..
+10
+vi
+RINGKASAN (
+SUMMARY
+)
+Sustainable Development Goals (SDGs) are the global frameworks by
+which one of the goals is specifically sets out to ensure
+healthy lives and
+promote well
+-
+being for people at all ages. Literally, Indonesia still has many
+challenges to reach such global targets since Indonesia is in the fight against
+various complex health problems, such as high maternal and mortality rates,
+stu
+nting, diphtheria outbreaks and other related health issues. These growing
+diseases are like the iceberg phenomenon.
+The action to solve those health problems is still curative rather than
+preventive and promotive. The preventive and promotive action has n
+ot been
+taken and developed although they can be applied by screening through health
+risk factors and early detections. However, it is difficult to apply with the lack
+of health data. The healthcare institution and industry historically has
+generated large
+amounts of data driven by record keeping, compliance &
+regulatory requirements, and patient care. Nevertheless, most data are
+recorded in the form of paper
+-
+based database which can be potentially lost,
+less accurate or incomplete, and hard to update and b
+ackup. Therefore,
+electronic integrative health care data needs to be created with an overall
+vision to support health prevention and promotion in Indonesia.
+In an era of disruption technology nowadays,
+where all aspects of life
+cannot be separated from th
+e digital system, integrated electronic health record
+can be set as a solution to the health issues in Indonesia. Currently, internet
+service users in Indonesia reached 143.26 million with a penetration of
+54.68% of all people at all age (APJII, 2017). Thu
+s, this condition becomes an
+opportunity for Indonesia to solve the existing health issues with digitalization
+system.
+In this paper, I propose new model of integrated health care in order to
+improve the quality health care in Indonesia. This model aims t
+o integrate all
+health related data from all health institutions to encourage and determine
+better access, quality, user satisfaction and efficiency. Prior to the
+establishment of integrated electronic health records, clinicians and health
+vii
+records speciali
+sts were the central “integrators” of patient information.
+However, in this model, the massive quantities of integrated health data hold
+the promise of supporting a wide range of medical and healthcare functions,
+including clinical decision support, diseas
+e surveillance, and population health
+management.
+The model of integrated healthcare potentially can run three main
+functions such as predictive analysis, prescriptive analysis and genomic
+analysis. When big data are synthesized and analyzed, healthcare p
+roviders
+and other stakeholders can develop more thorough and effective diagnoses and
+treatments, treatments and interventions. In particular, this model may bring
+lower cost but with better outcomes, more accurate analytic to patient profiles,
+more predic
+tive in determining large
+-
+scale disease profiling. In addition, some
+actions can also be set, such as applying, early intervention initiatives based
+on risk factors, and collecting and publishing data for medical purposes which
+in turn, assisting patients
+in determining the care protocols or regimens at the
+best value.
+The implementation of this model will significantly affect Indonesia Sehat
+program by decreasing health problems through curative, promotive and
+preventive medical services. Yet, it still re
+quires holistic multidimensional
+collaborative approach from stakeholders, healthcare providers or agencies,
+and information technology experts. In addition, there are three model
+implementation strategies including literacy of data, literacy of technolog
+y and
+literacy of human. The literacy of data by health workers leads to increasing
+ability to analyze data, make a conclusion based on data, and matching data.
+The literacy of technology is required for IT expert to provide an insight about
+how technology
+works and data security. Meanwhile, the literacy of human,
+deals with the ability to communicate and pay attention to human aspects such
+as commitment to legal ethics as well as empathize for patients in the era of
+digitalization.
+Finally, integrated heal
+th care model described in this paper will be
+regarded as a strategic solution to future healthcare system in Indonesia. By
+digitizing, combining and effectively using big data, significant benefits on
+viii
+healthcare can potentially be achieved. The data can b
+e used to detect diseases
+at earlier stages so that patients can be treated more easily and effectively,
+manage individual and population health issues and also detect healthcare
+fraud more quickly and efficiently.
+1
+BAB I
+PENDAHULUAN
+1.1 Latar Belakang
+Su
+stainable Development Goals (SDGs) merupakan agenda 2030 yang
+menjadi kerangka kerja global dalam pembangunan berkelanjutan. Salah satu
+tujuan pembangunan berkelanjutan tersebut yaitu menjamin kehidupan yang
+sehat dan mendorong kesejahteraan bagi semua ora
+ng di segala usia. Namun,
+Indonesia masih mempunyai tantangan besar dalam menyelesaikan berbagai
+permasalahan
+di bidang
+kesehatan
+yang semakin kompleks.
+Baru
+-
+baru ini, m
+asalah
+Kejadian Luar Biasa (
+KLB
+)
+D
+ifteri
+kembali
+berulang
+di Indonesia dan menjadi kas
+us Difteri terbesar di dunia pada tahun
+2017
+dengan penyebaran kasus pada 142 kota/kabupaten di 28 propinsi di
+Indonesia (Tribun Kesehatan, 28 Desember 2017)
+.
+Terdapat pula masalah
+masih
+tingginya
+angka k
+ematian ibu dan bayi di Indonesia
+jika dibandingkan
+dengan negara
+-
+negara lain di kawasan ASEAN
+.
+Banyak wanita menderita
+setidaknya satu faktor risiko selama kehamilannya. Berdasarkan Survei
+Penduduk Antar Sensus (SUPAS) tahun 2015,
+Angka Kematian Ibu (
+AKI
+)
+di
+Indonesia berada pada angka 305/100.000 kelahira
+n hidup, Angka Kematian
+Bayi (AKB) 22.23 per 1.000 kelahiran, dan Angka Kematian Balita (Akaba)
+26.2 per 1.000 kelahiran hidup
+(BPS, 2016)
+. Salah satu penyebab AKI adalah
+rendahnya pengetahuan
+ibu hamil tentang bagaimana menjaga jesehatan
+selama kehamilan
+yang disebabkan oleh minimnya informasi yang diterima
+(
+Kemenkes
+RI, 201
+3
+;
+Kemenkes, 2015;
+BP
+S
+, 201
+7
+).
+Masalah
+-
+masalah kesehatan
+, terutama yang terkait
+ibu dan anak
+dapat
+dicegah dengan upaya preventif dan promotif
+. Namun, upaya preventif dan
+promotif mas
+ih belum dilakukan secara maksimal
+.
+S
+alah satu
+penyebab yang
+signifikan adalah
+data dan informasi yang kurang
+memadai
+dan belum
+terintegrasi
+satu sama lain.
+Disisi lain
+, Indonesia membutuhkan data holistik
+untuk memahami
+kondisi kesehatan masyarakat di
+mas
+ing
+-
+masing
+wilayah dan
+memberikan intervensi
+sesuai kebutuhan. A
+kibat kurangnya data,
+skrining
+dan
+deteksi dini pun sulit dilakukan.
+2
+S
+aat ini
+Indonesia telah memasuki era disru
+psi teknologi dimana segala
+aspek kehidupan tidak dapat terlepas dari sistem di
+gital.
+Pada tahun
+2017,
+pengguna layanan internet di Indonesia mencapai
+143,26 juta dengan penetrasi
+54,68% dari seluruh kalangan dan usia
+(
+APJII
+, 2017)
+. Hal ini menjadi suatu
+peluang bagi
+pemerintah
+untuk menerapkan sistem digitalisasi di bidang
+kesehatan
+guna menyelesaikan permasalahan
+di bidang kesehatan
+khususnya
+dalam hal kurang memadainya data dan informasi dan belum adanya integrasi
+data kesehatan penduduk Indonesia
+.
+Memperhatikan permasalahan dan peluang yang ada dalam bidang
+kesehatan di Indonesia
+tersebut, karya tulis ini memberikan gagasan tentang
+“Model L
+ayanan Kesehatan
+Integrated
+Health
+Care
+Menuju Indonesia Sehat di
+Era Disru
+psi Teknologi
+”
+.
+M
+odel
+layanan kesehatan yang digagas ini
+dimaksudkan
+untuk mengintegrasikan penyelenggaraan layanan kes
+ehatan,
+sehingga
+semua masyarakat Indonesia baik di daerah perkotaan maupun daerah
+pedalaman terdata secara sistematis.
+Pengembangan
+model
+sistem informasi
+kesehatan
+ini
+diarahkan untuk mendapatkan data dan informasi kesehatan
+setiap individu secara akurat
+, sehingga
+skrining (
+screening
+)
+,
+deteksi dini dan
+intervensi berbasis risiko kesehatan
+da
+pat dilakukan
+dan berdampak secara
+langsung pada penurunan AKI, AKB, AKAB
+A
+, stunting dan
+masalah
+kesehatan yang
+lain
+nya
+.
+1.2 Rumusan Masalah
+Rumusan masalah yang dapat
+dipaparkan sesuai dengan latar belakang
+yang telah dijelaskan adalah:
+1.
+Bagaimana model layanan kesehatan yang mampu
+mengo
+p
+timalkan
+upaya
+preventif dan promotif
+di Indonesia
+dalam
+era disru
+psi teknologi
+?
+2.
+Bagaimana strategi
+pengembangan dan implementasi mode
+l layanan
+kesehatan di Indonesia?
+1.3
+Uraian Singkat
+Gagasan
+Pelayanan kesehatan Indonesia, khususnya kesehatan ibu dan anak saat
+ini masih belum terintegrasi
+. Untuk itu, karya tulis ilmiah ini menggagas suatu
+strategi model layanan kesehatan dengan
+mengintegr
+asikan data kesehatan.
+Integrasi
+data kesehatan
+akan menunjang upaya preventif
+,
+promotif
+dan
+3
+intervensi berbasis resiko
+. Model layanan
+kesehatan
+ini
+ber
+potensi untuk
+digunakan sebagai bahan
+analisis dan prediksi komplikasi, analisis preskriptif
+dan genomik
+. Di era disrupsi teknologi, model layanan kesehatan
+memerlukan
+literasi data, literasi teknologi dan literasi manusia
+.
+Selanjutnya,
+dalam
+implementasi
+nya, gagasa
+n
+tersebut memerlukan dukungan
+dari berbagai
+pemangku kepentingan (
+stakeholder
+)
+yang berkaitan
+dengan integrasi data
+kesehatan
+.
+1.4
+Tujuan
+Adapun tujuan dari penulisan karya tulis ini
+pertama
+adalah untuk
+memberikan gagasan tentang apa yang dapat dilakukan pemerintah untuk
+mengoptimalka
+n upaya preventif dan promotif
+dalam bidang kesehatan di
+Indonesia
+dengan memanfaatkan era disrupsi teknologi. Kedua, untuk
+menjelaskan
+strategi
+pengembangan model layanan kesehatan yang digagas
+ini dan implementasinya di Indonesia.
+1.5
+Manfaat
+Manfaat
+dari karya
+tulis
+i
+ni adalah
+:
+1.
+s
+ebagai bahan rekomendasi untuk
+pemerintah d
+alam meningkatkan derajat
+kesehatan masyarakat Indonesia.
+2.
+m
+emberikan sumbangan pemikiran dan alternatif untuk p
+rogram integrasi
+dalam
+p
+elayanan kesehatan di Indonesia.
+3.
+m
+eningkatkan
+pengetahuan
+, pendidikan
+dan rasa peduli masyarakat
+Indonesia terhadap
+kese
+hatan
+yang berkelanjutan.
+1.6
+Metode Penulisan
+Metode
+yang digunakan dalam penulisan karya tulis ini
+adalah studi
+literatur dan observasi
+. Jenis referensi utama yang digunakan
+dalam studi
+literatur
+adalah buku, jurnal dan artikel ilmiah. Data tersebut dijadika
+n sebagai
+dasar untuk menganalisis dan menjelaskan masalah dalam sebuah
+pembahasan. Teknik analisis data berupa deskriptif argumentatif.
+Sedangkan
+observasi
+dan wawancara dilakukan kepada tenaga administrasi dan paramedis
+di posyandu dan puskesmas.
+4
+BAB II
+TINJAUAN PUSTAKA
+2.1
+Program Indonesia Sehat
+Program Indonesia Sehat dilaksanakan dengan 3 pilar utama yaitu
+:
+(1)
+P
+aradigma sehat
+.
+Pilar ini
+dilakukan dengan strategi penguatan promotif
+preventif. (2) Penguatan pelayanan kesehatan
+.
+Pilar ini
+dilakukan deng
+an
+strategi pening
+katan akses pelayanan kesehatan dan
+optimalisasi sistem
+rujukan. (3) J
+aminan kesehatan nasional
+.
+Pilar ini
+menggunakan pendekatan
+continuum of care
+dan intervensi berbasis risiko (Kemenkes RI, 2015).
+Titik berat rencana pelayanan kesehat
+an di Indonesia oleh Kementerian
+Kesehatan RI (Kemenkes) adalah penguatan pelayanan kesehatan primer dalam
+kesehatan masyarakat melalui pemberdayaan masyarakat, serta mendorong
+lintas se
+k
+tor mewujudkan gerakan masyarakat hidup sehat.
+Prioritas ini
+didasari
+oleh permasalahan kesehatan yang mendesak seperti angka kematian
+ibu dan bayi yang masih tinggi, angka gizi buruk, serta angka harapan hidup
+yang sangat ditentukan oleh kualitas pelayanan primer.
+Membangun layanan
+terpadu di pelayanan kesehatan primer
+ada
+lah
+strategi penting untuk
+membangun sistem perawatan kesehatan berkualitas tinggi dan terjangkau.
+2.
+2
+Integrasi
+Layanan Kesehatan
+(
+Integrated Care
+)
+Integrated care
+merupakan strategi penting untuk memperbaiki proses
+dan layanan kesehatan.
+Dasar teoritis d
+ari model layanan terintegrasi
+dijelaskan oleh
+teori
+Rainbow Model of Integrated Care
+yang
+terdiri dari
+6
+dimensi integrasi (integrasi klinis, profesional, organisasi, sistem, fungsional
+dan normatif).
+Integrasi pelayanan
+Rainbow Model
+membedakan empat
+dim
+ensi yang memainkan peran saling terhubung pada integrasi sistem
+makro, meso (organisasi, profesional) dan tingkat mikro (integrasi klinis) dan
+dua dimensi (integrasi fungsional dan normatif) yang memungkinkan
+konektivitas antara berbagai tingkat integrasi
+.
+Berdasarkan
+Rainbow Model of
+Integrated Care
+, integrasi layanan
+makro
+dapat dicapai
+jika integrasi layanan
+mikro telah terbentuk dengan baik (Valentijn, 2016).
+Integrasi kesehatan
+dibutuhkan di semua tingkat, termasuk pendekatan
+Interprofessional
+Collabo
+ration
+(IPC)
+di tingkat mikro yaitu integrasi klinis dan fungsional.
+5
+2.3
+Era Disrupsi Teknologi
+Era disrupsi teknologi dan revolusi digital adalah istilah lain dari revolusi
+industr
+i
+4.0.
+Salah satu karakteristik unik dalam era ini adalah proliferasi
+k
+omputer
+dan otomatisasi pencatatan di semua bidang
+.
+Industri 4.0
+hadir
+menggantikan
+i
+ndustri 3.0 yang ditandai dengan cyber fisik dan kolaborasi
+manufaktur (Hermann
+et al
+, 201
+6
+).
+Prinsip
+dasar
+era disrupsi teknologi ini
+adalah
+menerapkan jaringan cerdas di
+sepanja
+ng rantai untuk mengendalikan
+satu sama lain secara mandiri
+(Lifter dan Tschiener, 2013)
+. Hermann
+et al
+(2016) menambahkan, ada empat
+desain prinsip
+dalam era ini, pertama adalah
+interkoneksi
+(
+kemampuan mesin,
+perangkat, sensor,
+d
+an
+manusia
+untuk
+terhubu
+ng dan berkomunikasi
+s
+atusama lain melalui
+Internet of Things
+(IoT)
+atau
+Internet of People
+(IoP)
+,
+membutuhkan kolaborasi, keamanan, dan
+standa
+r); k
+edua
+adalah
+transparansi
+informasi
+(
+kemampuan sistem informasi
+untuk menciptakan salinan virtual dunia fisik
+)
+; k
+etiga
+yaitu
+bantuan teknis
+yang
+meliputi kemampuan sistem untuk mendukung manusia
+d
+engan
+menggabungkan dan
+m
+engevaluasi
+informasi secara sadar untuk membuat
+keputusan yang tepat dan memecahkan masalah mendesak dalam waktu
+singka
+t
+;
+k
+eempat
+adalah
+keputu
+san
+terdesentralisasi yang merupakan
+kemampuan sistem fisik maya untuk membuat keputusan sendiri dan
+menjalankan tugas seefektif mungkin
+.
+Dewasa ini kemajuan dunia
+Information and Communication Technology
+(ICT) yang berbasis komputer telah berkembang dan m
+enjadi bagian yang
+tidak terpisahkan dari dunia kesehatan (Lee, 201
+0
+).
+Teknologi informasi dan
+komunikasi memiliki potensi yang besar untuk menghadapi masalah
+di
+negara berkembang dengan
+menyediakan akses cepat,
+cost effective
+, dan
+perawatan kesehatan yang
+berkualitas. Menyediakan akses layanan
+kesehatan
+bagi negara
+–
+negara berkembang
+m
+emiliki potensi yang
+sangat
+besar untuk
+memenuhi kebutuhan
+yang belum
+t
+erpenuhi sebelumnya dan berdampak
+secara positif
+pada pelayanan kesehatan selanjutnya (Brandling
+-
+Bennett
+,
+2005
+; Chaundhry,
+et al
+, 2006
+; Mackert,
+et al,
+2014
+).
+6
+BAB I
+II
+ANALISIS SINTESIS
+3.1
+Analisis
+Permasalahan Kesehatan di Indonesia
+Permasalahan
+Kejadian Luar Biasa (
+KLB
+)
+difteri
+, gizi buruk,
+Angka
+Kematian Ibu (
+AKI
+)
+,
+Angka Kematian Bayi (
+AKB
+)
+, dan
+Angka Kematia
+n
+Balita (
+AKABA
+)
+merupakan masalah kesehatan masyarakat layaknya
+fenomena gunung es yang
+tidak terlihat
+dipermukaan
+dan menempati posisi
+tinggi dalam permasalahan kesehatan di Indonesia
+.
+Permasalahan g
+izi
+b
+uruk
+dan
+s
+tunting
+disebabkan banyak hal
+, salah sat
+unya adalah
+minimnya upaya
+preventif dan promotif,
+status nutrisi ibu yang buruk,
+pencatatan dan
+pelaporan
+kesehatan
+yang tidak lengkap
+,
+layanan kesehatan yang terbatas
+misalnya
+A
+ntenatal Care
+(A
+NC
+),
+P
+ostnatal Care
+(P
+NC
+),
+tingkat kehadiran di
+posyandu yang
+menurun dan tidak mendapatkan imunisasi (
+Black,
+et al.
+,
+2008;
+Sekretariat Wakil Presiden RI, 2017
+).
+Kejadian luar biasa difteri juga diakibatkan
+oleh
+imunisasi yang tidak
+lengkap atau tidak sesuai jadwal, pencatatan yang kurang akurat oleh petugas
+kesehat
+an atau tidak disimpan dengan baik oleh orang tua,
+serta
+sistem
+pelaporan yang kurang baik (IDAI, 2017).
+Seiring dengan hal ini, ditemukan
+bahwa a
+ngka imunisasi dasar bayi masih cukup jauh dari target kementerian
+kesehatan Indonesia yang saat ini masih men
+capai angka 71,2% dengan target
+di tahun 2019 yaitu 95% (Kemenkes, 2017).
+Ketidak
+akuratan data mengenai
+cakupan imunisasi menyebabkan status imunisasi
+anak
+sulit diketahui.
+Sedangkan Angka Kematian Ibu (AKI) paling banyak disebabkan oleh
+hipertensi dalam k
+ehamilan/ preeklampsia, perdarahan, infeksi dan abortus
+yang membutuhkan rujukan yang dapat dideteksi secara dini dan
+mendapatkan intervensi segera
+(Alkema,
+et al
+, 2016)
+.
+Permasalahan
+-
+permasalahan
+kesehatan
+tersebut tentu saling
+berhubungan,
+dan pada dasa
+rnya disebabkan oleh
+minimnya ketersediaan data
+maupun manajemen sistem informasi
+data kesehatan
+di Indonesia
+,
+sehingga
+upaya preventif dan promotif
+terhadap kesehatan masyarakat masih belum
+bisa dilakukan secara maksimal. Pepatah umum kesehatan mengatakan
+bahwa
+m
+engobati jauh lebih mahal daripada mencegah penyakit
+.
+Dalam hal ini,
+7
+penekanan layanan promotif dan preventif melalui berbagai program
+kesehatan masyarakat diperlukan untuk menjamin kesehatan masyarakat
+Indonesia saat ini dan tindakan kuratif dapat
+dikurangi sehingga berdampak
+pada pembiayaan kesehatan yang lebih efisien.
+Pencegahan terhadap berulangnya
+Kejadian Luar Biasa (
+KLB
+)
+dapat
+dilakukan dengan memaksimalkan
+pemanfaatan
+data faktor resiko yang ada
+dan penjadwalan imunisasi.
+Status imunisasi l
+engkap dapat diketahui dari
+data riwayat kesehatan, sehingga s
+istem input data
+kesehatan
+yang baik dapat
+menjadi strategi
+yang tepat
+untuk
+mengidentifikasi masyarakat yang belum
+memenuhi jadwal imunisasi dan
+meningkatkan
+kesadaran (
+awareness
+)
+masyarakat te
+ntang pentingnya imunisasi
+.
+Upaya pencegahan dapat dilakukan dengan
+screening
+faktor resiko dan
+deteksi dini.
+Misalnya u
+paya pencegahan kematian ibu dan bayi dapat
+dilakukan dengan deteksi dini terhadap komplikasi tertentu.
+Deteksi dini
+berdasarkan f
+aktor
+resiko dapat dinilai dengan
+Kartu S
+kor
+Poedji
+R
+o
+c
+h
+j
+ati
+berdasarkan data subjektif pasien
+, sehingga proses rujukan dapat segera
+dilakukan dan pelayanan emergensi obstetrik menjadi cepat, efektif dan tepat
+sasaran
+.
+Berkaitan dengan kasus gizi buruk dan stunt
+ing
+juga dapat dicegah
+dengan intervensi gizi spesifik dengan menggunakan data tersebut. Data yang
+baik dan lengkap akan membantu layanan kesehatan dalam memberikan
+konseling yang tepat mengenai makanan apa saja yang dibutuhkan oleh
+seorang individu khusus
+nya ibu hamil dan anaknya sesuai dengan kebutuhan
+kalori per harinya yang dapat terhitung melalui data indeks berat/massa tubuh
+(
+body mass index/
+BMI)
+dalam 1000
+H
+ari
+Pertama Kehidupan
+(HPK) yaitu
+intervensi terhadap ibu hamil dengan
+Pemberian Makanan Tamba
+han
+(PMT),
+Air Susu Ibu (
+ASI
+)
+Eksklusif pada bayi usia 0 sampai 6 bulan, serta imunisasi
+lengkap.
+Selain itu, data
+yang lengkap
+sangat berguna untuk monitoring data
+wabah penyakit pada wilayah tertentu (
+epidemiologi
+) yang memerlukan
+dukungan data terintegr
+asi. Integrasi data antar unit
+layanan kesehatan
+(puskesmas, poliklinik, rumah sakit) harus dikelola dengan baik sehingga
+memungkinkan para
+pemangku kepentingan (
+stakeholder
+)
+memperoleh dan
+8
+menganalisis data (kasus penyakit), sehingga
+keberadaan data int
+egrative
+tersebut dapat digunakan untuk
+mencegah kejadian
+luar biasa (
+outbreak
+)
+dan
+gizi buruk di Indonesia dengan mengetahui wilayah mana saja yang beresiko
+,
+sehingga
+pemangku kepentingan
+dapat memberikan intervensi lebih cepat.
+Selama ini layanan rekam m
+edis baik di puskesmas m
+aupun rumah sakit
+di Indonesia
+masih dilakukan secara manual yaitu berbasis kertas (
+paper
+based document
+). Hal tersebut secara tidak langsung akan membebani kinerja
+tim medis yang seharusnya hanya memeriksa dan merawat pasien, namun
+mereka juga harus campur tangan
+mengurusi
+masalah
+administratif
+manajemen data
+/
+rekam medis
+pasien
+.
+Seiring dengan kesibukan tim medis
+tersebut, terdapat potensi akan
+adanya data yang tidak tertulis dan rentan
+hilang
+.
+Selain itu, rekam medis yang ditulis
+di kertas tidak dapat diakses oleh
+si pasien sehingga berdampak pada
+kekurangsadaran pasien terhadap
+penyakit atau masalah kesehatan
+yang diderita.
+S
+ejauh
+ini, belum ada sistem yang mengintegrasikan layanan kesehatan
+dalam pengambilan data rekam medis pas
+ien secara menyeluruh.
+D
+ata
+kesehatan dalam pola layanan saat ini
+masih terfragmentasi
+,
+sedangkan
+masyarakat yang tidak memeriksakan kesehatannya tidak terdata secara
+detail.
+Bagian selanjutnya akan menjelaskan pentingnya model layanan
+kesehatan yang terin
+tegrasi di Indonesia.
+3.2
+Potensi
+Model
+Layanan Kesehatan
+Integrated
+Health
+Care
+di Era
+Disrupsi Teknologi
+Di tengah era disrupsi teknolgi saat ini, disebutkan bahwa t
+eknologi dan
+pendekatan baru yang menggabungkan dunia fisik, digital, dan biologi secara
+fundamental akan mengubah pola hidup dan interaksi manusia
+(Tjandrawinata, 2016). Industri 4.0 sebagai fase revolusi teknologi
+mengubah
+cara
+b
+erakti
+v
+itas manusia dalam skala, ruang lingkup, kompleksitas, dan
+transformasi dari pengalaman hidup sebelumnya.
+Set
+iap negara
+dituntut untuk
+merespon perubahan
+era digitalisasi s
+ecara integra
+tif
+dan komprehensif
+.
+Di
+tengah kondisi Indonesia saat ini, adanya revolusi teknologi informasi digital
+ini memberi peluang untuk dimanfaatkan demi perbaikan sistem data
+kesehat
+an yang masih
+paper
+-
+based
+menuju pengelolaan data digital
+9
+(p
+a
+p
+e
+rless)
+yang integratif.
+Potensi pembuatan data kesehatan digital online
+sangat potensial dikembangkan seiring j
+umlah penggunaan internet pada tahun
+2017 di Indonesia mencapai 143,26 juta dari 2
+62 juta orang dengan tingkat
+penetrasi 54,68%
+(APJII, 2017).
+Hal ini menunjukkan kondisi masyarakat
+Indonesia yang telah melek teknologi.
+Peningkatan pengguna
+internet
+di Indonesia merupakan peluang yang
+harus dimanfaatkan untuk menci
+p
+takan suatu pengemban
+gan sistem layanan
+kesehatan dan implementasi aplikasi kesehatan digital di Indonesia.
+Banyak
+inisiatif terkait pembangunan
+e
+-
+Health
+baik yang personal,
+mobile
+hingga
+berbasis web yang tengah dikembangkan di pusat dan daerah
+, seperti
+e
+-
+Health
+Surabaya dan
+lain
+-
+lain
+.
+Inovasi kesehatan di Indonesia mulai bermunculan,
+seperti aplikasi Dokterku, KlikDokter, halodoc dan beberapa layanan
+konsultasi online kesehatan lainnya.
+mHealth
+terbukti dapat memperbaiki
+layanan kesehatan di Negara berkembang
+di dunia
+(Tamrat
+& Kachnowski,
+2012). Layanan tersebut berpotensi meningkatkan efisiensi dan efektivitas
+pada daerah dengan infrastruktur yang minim dan membawa manfaat besar
+untuk pasien (Ranck, 2011).
+Namun, seluruh layanan digital tersebut berdiri
+secara independen dan
+memiliki data kesehatan yang terpisah satu sama lain.
+Kondisi tersebut
+mem
+butuh
+kan
+interoperabilitas dan
+arsitektur
+, sehingga
+terlihat ada kejelasan hubungan antar komponen di
+pemangku kebijakan
+,
+teknologi,
+sumber daya manusia
+, dan p
+roses
+integratif
+.
+Pende
+katan integratif
+perlu dibuat untuk mengatasi data yang tumpang tindih (
+overlapping data
+) dan
+data yang terlewat (
+missing data
+).
+3.3
+Sintesis
+3
+.
+3
+.1
+Formulasi
+Model Layanan
+Kesehatan
+Integr
+ated Health Care
+di
+Indonesia
+Gagasan untuk membuat sistem
+model l
+ayanan
+kesehatan
+ini adalah
+gagasan baru sebagai alternatif dan strategi yang lebih efektif dalam pelayanan
+kesehatan menyeluruh di Indonesia dengan
+optimalisasi dan integrasi data
+kesehatan
+personal melaui
+sistem digital
+.
+Model
+ini
+(Gambar 1)
+memungkinkan
+adanya
+integrasi
+data medis
+dalam suatu sistem, sehingga
+proses
+deteksi dan
+rujukan akan berlangsung
+lebih cepat
+, terutama dalam hal
+10
+ini untuk menjawab permasalahan kesehatan ibu dan anak
+.
+Hasil yang
+diharapkan adalah memaksimalkan fungsi koneksi data lay
+anan kesehatan
+primer ke
+bank data (
+database
+)
+yang dapat diakses rekam medisnya dimanapun
+pasien tersebut berada
+dan
+menfokuskan
+layanan kesehatan
+pada
+upaya
+prevensi, prediksi, dan detesi dini.
+Model ini dapat ditinjau dari berbagai
+perspektif, yaitu pers
+pektif pemerintah, perspektif kesehatan dan perspektif
+teknologi informasi.
+N
+ilai (
+value
+) perspektif pemerintah seyogyanya tidak berada di bawah
+ke
+dua
+perspektif lainnya
+dalam hubungan konsolidatif
+.
+Perspektif kesehatan
+dan teknologi
+perlu dibangun sejala
+n dengan perspektif pemerintah, sehingga
+akan memperkuat upaya pencapaian
+agenda priotitas (
+program Nawa Cita
+),
+terutama agenda ke 5 yang dimaksudkan untuk meningkatkan kualitas hidup
+manusia melalui program Indonesia Sehat.
+Perencanaan terintegrasi
+pemba
+ngunan kesehatan dapat dicapai hanya apabila masing
+-
+masing pihak
+terkait
+dapat saling
+b
+ertukar data/informasi.
+Perspektif
+k
+edokteran
+meliputi pihak
+LKP (L
+ayanan
+K
+esehatan
+P
+rimer
+)
+yang mencaku
+p p
+uskesmas,
+po
+syandu,
+dan lain
+?
+lain
+yang menjadi
+garda
+terdepan untuk menyelesaikan permasalahan kesehatan
+,
+LKS (Layanan
+Kesehatan Sekunder) yang meliputi r
+umah
+s
+akit tipe
+C dan D, maupun
+r
+umah
+s
+akit Swasta, serta
+LKT (L
+ayanan
+K
+esehatan
+T
+ersier
+) yang meliputi r
+umah
+Gambar 1.
+Model Layanan Kesehatan
+Integrated Health Care
+11
+s
+akit tipe A dan B baik RSUD, RSUP, mau
+pun RS Swasta
+.
+Selain itu, dalam
+model ini, dibutuhkan juga integrasi data dari organisasi kesehatan di Indonesia
+maupun perusahaan
+i
+ndependen
+sebagai layanan kesehatan primer
+untuk
+memaksimalkan kelengkapan data.
+Pengintegrasian data kesehatan
+dari
+semua
+fasilitas layanan kesehatan (
+Fasyankes
+)
+menjadi data kesehatan
+nasional dapat
+memberikan dampak pada rekam medis elektronik.
+Sedangkan perspektif teknologi berkaitan dengan p
+enataan
+t
+ransaksi
+d
+ata
+dan
+o
+ptimalisasi
+a
+liran
+d
+ata untuk meningkatkan pertukaran
+informasi melalui
+dukungan elektronik agar terselenggara manajemen sistem
+informasi data
+kesehatan yang lebih
+baik, aman dan
+e
+fektif
+serta efisien
+dalam
+biaya
+.
+Model
+layanan kesehatan ini dapat berupa rekam kesehatan elektronik,
+peresepan obat
+elektronik,
+entri data terkomputerisasi,
+m
+-
+health
+,
+e
+-
+health, telemedicine
+,
+pertukaran data elektronik,
+pharmacogenomic/genome sequencing
+dan lain
+-
+lain
+.
+Model layanan kesehatan
+terintegrasi
+dapat digunakan untuk
+memperbaiki
+fungsi
+-
+fungsi dalam sistem pelayanan keseh
+atan
+dan
+kualitas pelayanan
+seperti
+anamnesa terfokus dan penarikan diagnosa yang tepat
+.
+K
+eanekaragaman
+teknologi ini
+juga memiliki
+tantangan
+terkait
+kebijakan pengaturan standar
+keamanan alat, khususnya
+patient safety
+untuk alat
+-
+alat yang digunakan pada
+m
+anusia
+karena
+tidak semata
+-
+mata alat non
+-
+elektronik, namun juga alat
+kedokteran/kesehatan berbasis teknologi yang semakin berkembang.
+Data
+subjektif dapat didapatkan langsung dari individu, sedangkan data objektif
+didapatkan dari hasil pemeriksaan di layan
+an kesehatan. Namun, dibutuhkan
+keamanan data (
+security data
+) untuk memastikan data tersebut hanya dapat
+diakes oleh pihak terkait (pemerintah, layanan kesehatan dan individu pemilik
+data).
+3.3.2
+Potensi
+Penggunaan
+Model
+Layanan Kesehatan
+Integrated
+Health
+Ca
+re
+1.
+Predictive Analysis
+Model layanan kesehatan terintegrasi ini dapat memprediksi adanya
+penyakit atau komplikasi mendatang yang akan diderita oleh
+individu
+maupun masyarakat dalam suatu wilayah tertentu
+. Dengan memanfaatkan
+teknologi komputerisasi, dat
+a dapat digunakan untuk mempelajari
+12
+bagaimana memprediksi perilaku masa depan dari seorang individu
+(S
+iegel
+, 201
+6
+)
+. Data tersebut meliputi
+data rekam medis elektronik
+(
+Electronic
+Medical
+Record
+)
+yang
+secara otomatis masuk ke bank data
+(database)
+. Data ters
+ebut
+dapat dijadikan sebagai bahan
+pengambilan
+keputusan, prediksi penyakit dan
+p
+enunjang kesehatan masyarak
+a
+t (
+Lodha
+,
+et al,
+201
+8
+).
+Analisis data dapat mengidentifikasi pola dan kemungkinan
+profil kesehatan
+yang
+akan
+terjadi di masa depan (Joseph & Johnso
+n,
+2013; Rehman
+et al,
+2016).
+Manfaat potensial
+lainnya
+adalah mendeteksi penyakit sedini
+mungkin, sehingga mendapatkan penanganan lebih cepat
+.
+Salah satu
+contohnya, d
+ata yang
+rekam medis i
+bu hamil dapat memprediksi
+komplikasi
+, data tersebut
+meliputi riway
+at abortus, riwayat persalinan
+yang dibantu
+dengan
+alat
+,
+riwayat operasi
+se
+ct
+io c
+ae
+sar
+e
+a
+(
+SC
+)
+, riwayat
+penyakit pada ibu hamil
+,
+riwayat perdarahan dalam kehamilan saat ini,
+preeklampsia berat/kejang
+dan lain
+?
+lain.
+A
+danya data kesehatan
+terintegrasi ini dih
+arapkan memberikan masyarakat informasi kesehatan
+mereka sehingga kesadaran akan kesehatan akan semakin meningkat di
+masa yang akan datang.
+2.
+Prescriptive
+A
+nalysis
+Digitalisasi
+informasi
+pengobatan
+berpotensi
+meningkatkan upaya
+penyembuhan
+. Tenaga farmas
+i dapat mengantisipasi kejadian luar biasa
+(
+outbreak
+) dengan menyiapkan stok obat. Analisis preskripsi dalam model
+layanan
+integrasi memungkinkan tim medis
+mengambil keputusan atau
+tindakan yang perlu dilakukan dengan berbagai alternatif yang
+memungkinkan,
+mengambil tindakan terbaik dengan menghubungkan
+riwayat kesehatan dan riwayat pengobatan serta mempertimbangkan
+semua efek samping.
+Kebanyakan obat yang tersedia saat ini adalah satu
+jenis produk obat
+yang dianggap
+cocok untuk semua
+orang
+(
+one size fits
+all
+)
+,
+namun
+kenyataannya obat tidak bekerja dengan cara yang sama untuk semua
+orang
+.
+Model ini pun memungkinkan adanya evaluasi keberhasilan
