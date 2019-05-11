@@ -5,7 +5,7 @@
  */
 package model;
 
-import com.sun.org.apache.xerces.internal.util.DOMUtil;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -368,11 +368,7 @@ public class InvertedIndex {
         }
         for (int i = 0; i < listFile.length; i++) {
             Document doc = new Document();
-            try {
-                doc.readFile(idDoc, listFile[i]);
-            } catch (IOException ex) {
-                Logger.getLogger(InvertedIndex.class.getName()).log(Level.SEVERE, null, ex);
-            }
+            doc.readFile(idDoc, listFile[i]);
             addNewDocument(doc);
             idDoc++;
         }
@@ -387,11 +383,7 @@ public class InvertedIndex {
             idDoc = listOfDocument.size();
         }
         Document doc = new Document();
-        try {
-            doc.readFile(idDoc, dir);
-        } catch (IOException ex) {
-            Logger.getLogger(InvertedIndex.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        doc.readFile(idDoc, dir);
         addNewDocument(doc);
         makeDictionaryWithTermNumber();
         idDoc++;
