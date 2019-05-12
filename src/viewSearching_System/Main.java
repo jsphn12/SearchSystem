@@ -8,7 +8,10 @@ package viewSearching_System;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import model.Document;
 import model.InvertedIndex;
@@ -23,7 +26,7 @@ public class Main extends javax.swing.JFrame {
     /**
      * Creates new form Main
      */
-    public Main() {
+    public Main() throws IOException {
         initComponents();
         index = new InvertedIndex();
         setTitle("Searching");
@@ -31,6 +34,7 @@ public class Main extends javax.swing.JFrame {
         int x = layar.width / 2 - this.getSize().width / 2;
         int y = layar.height / 2 - this.getSize().height / 2;
         this.setLocation(x, y);
+        loadData();
     }
 
     /**
@@ -158,10 +162,11 @@ public class Main extends javax.swing.JFrame {
 
     private void SearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SearchActionPerformed
         // TODO add your handling code here:
-        String query = Search.getText();
+        String query = inputWord.getText();
         ArrayList<SearchingResult> hasilCari = index.searchCosineSimilarity(query);
         model = new TableModelDokumen(hasilCari);
         jTable1.setModel(model);
+        System.out.println(index.getListOfDocument().size());
     }//GEN-LAST:event_SearchActionPerformed
 
     private void FileBarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileBarActionPerformed
@@ -172,29 +177,12 @@ public class Main extends javax.swing.JFrame {
     private void ChooseFileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ChooseFileActionPerformed
         // TODO add your handling code here:
         JFileChooser fileChooser = new JFileChooser();
-        int returnVal;
-        returnVal = fileChooser.showOpenDialog(this);
-        // set fileCjooser hanya directory
         fileChooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
-        if (returnVal == JFileChooser.APPROVE_OPTION) {
-            // baca directory
-            File dir = fileChooser.getSelectedFile();
-            // baca isi directory
-            File files[] = dir.listFiles();
-            for (int i = 0; i < files.length; i++) {
-                // buat document baru
-                Document doc = new Document();
-                doc.setId(i); // set idDoc sama dengan i
-                // baca isi file
-                // Isi file disimpan di atribut content dari objeck document
-                // variabel i merupakan idDocument;
-                File file = files[i];
-                doc.readFile(i, file);
-                // masukkan file isi directory ke list of document pada obye index
-                getIndex().addNewDocument(doc);
-            }
-            // lakukan indexing atau buat dictionary
-            getIndex().makeDictionaryWithTermNumber();
+        
+        int returnVal = fileChooser.showOpenDialog(this);
+        if(returnVal == JFileChooser.APPROVE_OPTION){
+            File directory = fileChooser.getSelectedFile();
+            index.readDirectory(directory);
         }
     }//GEN-LAST:event_ChooseFileActionPerformed
 
@@ -228,7 +216,11 @@ public class Main extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Main().setVisible(true);
+                try {
+                    new Main().setVisible(true);
+                } catch (IOException ex) {
+                    Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+                }
             }
         });
     }
@@ -255,6 +247,11 @@ public class Main extends javax.swing.JFrame {
      */
     public void setIndex(InvertedIndex index) {
         this.index = index;
+    }
+    
+    public void loadData() throws IOException{
+        File directory = new File("D:\\SearchingSystemMachine\\File Dokumen");
+        index.readDirectory(directory);
     }
 
 }

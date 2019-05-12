@@ -26,7 +26,7 @@ public class TableModelDokumen extends AbstractTableModel {
 
     @Override
     public int getColumnCount() {
-        return 2;
+        return 3;
     }
     
     @Override
@@ -38,7 +38,7 @@ public class TableModelDokumen extends AbstractTableModel {
             case 1:
                 return b.getSimilarity();
             case 2:
-                return b.getDocument().getContent();
+                return b.getDocument().getTitle();
             default:
                 return "";
         }
@@ -52,7 +52,7 @@ public class TableModelDokumen extends AbstractTableModel {
             case 1:
                 return "Ranking";
             case 2:
-                return "Content";
+                return "Title";
             default:
                 return "";
         }

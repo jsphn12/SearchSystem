@@ -6,6 +6,7 @@
 package test;
 
 import java.io.File;
+import java.io.IOException;
 import model.Document;
 
 /**
@@ -13,7 +14,7 @@ import model.Document;
  * @author admin
  */
 public class testFileDokumen {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Document doc = new Document();
         File file = new File("doc1.txt");
         doc.readFile(1, file);

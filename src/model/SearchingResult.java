@@ -7,7 +7,7 @@ package model;
 
 public class SearchingResult implements Comparable<SearchingResult> {
 
-    public static final int FAKTOR = 1000;
+    public static final int FAKTOR=1000;
     private double similarity;
     private Document document;
 
@@ -34,6 +34,6 @@ public class SearchingResult implements Comparable<SearchingResult> {
 
     @Override
     public int compareTo(SearchingResult result) {
-        return Double.compare(similarity, result.getSimilarity());
-    }
+        return Double.compare(result.getSimilarity(),similarity); 
+}
 }
