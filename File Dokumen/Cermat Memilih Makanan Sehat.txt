@@ -1,0 +1,162 @@
+Cermat Memilih Makanan Sehat
+
+Diajukan sebagai salah satu tugas untuk mata pelajaran Bahasa Indonesia
+pada Paket Keahlian Rekayasa Perangkat Lunak
+Sekolah Menengah Kejuruan Negeri 2 Subang
+
+Oleh
+Nama : Cindy Julyani
+Kelas : XI RPL
+NIT: 1516145
+
+PAKET KEAHLIAN REKAYASA PERANGKAT LUNAK
+PROGRAM KEAHLIAN TEKNIK KOMPUTER DAN INFORMATIKA
+BIDANG KEAHLIAN TEKNOLOGI INFORMASI DAN KOMUNIKASI
+SEKOLAH MENENGAH KEJURUAN NEGERI 2
+SUBANG
+2017 M/1438 H
+
+KATA PENGANTAR
+
+Pertama-tama penulis panjatkan puji dan syukur kehadirat Tuhan Yang Maha Esa karena atas segala berkat, rahmat dan hidayah-Nya, penulis dapat menyelesaikan karya tulis ilmiah sederhana ini yang berjudul “Cermat Memilih Makanan Sehat”.
+Karya tulis ilmiah disusun dengan tujuan dapat memberikan pengetahuan mengenai pemilihan makanan yang sehat untuk menjaga kesehatan tubuh kita, diharapkan juga pembuatan karya tulis ilmiah ini dapat membuat kita cermat lagi dalam memilih makanan yang sehat dan bergizi dengan cara yang mudah dan praktis.
+Tak lupa juga penulis mengucapkan terima kasih banyak kepada pihak yang telah membantu proses pembuatan karya tulis ilmiah ini, yaitu kepada ibu Arum Handayani, serta kepada orang tua penulis dan juga kepada rekan-rekan penulis, yaitu Ane Lusyana dan Via Siti Romlah yang telah memotivasi penulis untuk dapat menyelesaikan karya tulis ilmiah  ini dengan baik.
+Tak ada gading yang tak retak, penulis menyadari dalam penyusunan karya tulis ilmiah ini masih banyak kekurangan baik isi, bahasa dan tampilannya. Untuk itu sebagai makhluk yang lemah penulis tetap menerima krikti dan saran yang membangun demipeningkatan kualitas karya tulis ilmiah ini.
+
+Subang, 25 Februari 2017
+Penulis,
+(Cindy Julyani, XI RPL)
+
+
+BAB 1
+PENDAHULUAN
+A.    Latar Belakang
+Perkembangan makan diera globalisasi saat ini sudah  semakin inovatif dan variatif. Oleh karena itu tidak jarang banyak sekali pembuatan dan pengolahan makanan yang tidak memperhatikan aspek kebersihan. Sehingga kita tidak tahu mana makanan yang sehat dan mana tidak. Sekarang banyak sekali golongan  masyarakat yang tidak peduli dengan kesehatan yang ada di dalam tubuhnya. Jika hal tersebut di biarkan secara terus-menerus dapat mengakibatkan dampak negatif bagi tubuh kita.
+Masyarakat yang tidak peduli ini ditandai dengan banyaknya orang yang tidak  lagi memperdulikan kesehatan dirinya, kesehatan lingkungan, dan kesehatan orang lain. Selain itu, prinsip lebih sulit mengobati daripada mencegah sepertinya telah mengakar di kalangan masyarakat. Hal ini di akibatkan oleh meningkatnya kesibukan dan berkurangnya waktu istirahat sehingga mereka tidak sempat menjaga pola makan yang sehat dan lebih menomor duakan kebutuhan pokok seperti makanan.
+Mata manusia seolah telah dibutakan oleh berbagai macam dan bentuk makanan yang semakin inovatif, mereka tak berfikir secara lebih mendalam tentang apa akibatnya jika memakan makanan yang sembarangan sekaligus dengan harga mahal sekalipun, tetapi jika kita lebih teliti lagi dalam memilih makanan, kita dapat mencegah hal-hal yang tidak diinginkan seperti jika mata kita terpenuhi vitamin A maka penglihatan mata kitaakan baik ,  jika tubuh terpebuhi vitamin C maka mulut akan terhindar dari sariawan dan lain sebagainya.
+Dengan banyaknya perkembangan makanan yang semakin bervariasi tersebut, masyarakat kita dibuat bodoh oleh produsen makanan. Dimana para produsen makanan mengeruk keuntungan yang sangat besar dengan kebutuhan konsumen yang tidak ada puasnya. Terlebih lagi jika produk makanan tersebut adalah makanan yangsiap saji atau makanan instan. Tetapi disini kita juga menyadari bahwa sepenuhnya masalah ini timbul bukan dari produsen makanan tersebut. Hal itu kembali kepada konsumen yang melakukan pembelian barang atau makanan yang tidak berpikir secara panjang. Atas dasar inilah penulis merasa sangat penting untuk mengangkat judul “Cermat Memilih Makanan Sehat”.
+
+B.     Rumusan Masalah
+1.      Bagaimana cara memahami pentingnya makanan sehat dan bergizi bagi tubuh?
+2.      Bagaimana cara memahami tentang bahan-bahan makanan?
+3.      Bagaimanakah cara memperoleh kesehatan optimal dari makanan sehat dalam menu yang seimbang?
+4.      Bagaimanakah cara memilih bahan makanan yang baik dan masih segar?
+
+C.     Tujuan
+1.      Untuk mendeskripsikan cara memahami pentinya makanan sehat dan bergizi untuk pertumbuhan.
+2.      Untuk mendeskripsikan tentang cara memahami bahan-bahan makanan.
+3.      Untuk mendeskripsikan cara memperoleh kesehatan optimal dari makanan sehat dalam menu yang seimbang.
+4.      Untuk mendeskripsikan cara memilih bahan makanan yang baik dan masih segar.
+
+D.    Manfaat
+Pembuatan karya tulis ini diharapkan dapat meberikan manfaat bagi semua kalangan khusunya para pelajar, seperti:
+1.      Menunjukan bahwa untuk memperoleh kesehatan optimal diperlukan makanan yang sehat.
+2.      Siswa dapat terampil dalam menyusun menu sederhana.
+3.      Siswa dapat menambah pengetahuan tentang makanan sehat.
+
+BAB 2
+PEMBAHASAN
+A.    Memahami Pentingnya Makanan yang Sehat dan Bergizi
+1.      Pengertian Makanan
+Makanan adalah salah satu komponen penting bagi tubuh, dimana tubuh membutuhkan asupan makanan yang sehat dan bergizi yang terdiri atas protein, lemak, karbohidrat, vitamin dan mineral yang bermanfaat agar menambah stamina dan daya tahan tubuh. Tanpa makanan tubuh akan kehilangan cairan tubuh yang dapat mengakibatkan tubuh seseorang menjadi lemas dan tidak dapat menopang tubuhnya untuk berdiri tegak.
+Menurut Hanifa Luthfeni (2006:2) bahwasannya makanan  berguna untuk memenuhi kebutuhan manusia dalam melangsungkan kehidupannya karena dalam bahan makanan terdapat zat-zat yang dibutuhkan oleh tubuh. Selain itu, makanan sehari-hari berguna pula untuk:
+a.       Memberi tenaga dan panas badan,
+b.      Memperbaiki sel-sel yang rusak,
+c.       Memberi rasa kenyang,
+d.      Untuk kepuasan dan
+e.       Untuk pertumbuhan.
+Karena itu, makanan mempunyai pengaruh yang sangat besar terehadap kesehatan dan kehidupan kita, antara lain:
+a.       Timbulnya berbagai macam penyakit sebagai akibat dari:
+-          Makanan kurang memenuhi zat-zat gizi yang diperlukan oleh tubuh,
+-          Makanan yang dimakan kurang memadai jumlahnya dan
+-          Makanan yang dimakan seringkali mengandungracun atau bibit penyakit.
+b.      Pertumbuhan badan kurang normal, badan kecil, kurus beratnya  kurang sebagaimana mestinya bila dibandingkan dengan umurnya.
+2.       Fungsi makanan
+Menurut Sobardan (2008:4) fungsi makanan, yaitu:
+1.      Sumber tenaga atau energi, yaitu jika makanan yang masuk kedalam tubuh sedikit maka tubuh akan menjadilemas. Hal ini karena energi yang diperoleh tubuh sedikit. Maka tubuh memerlukan makanan yang cukup sebagai sumber energi.
+2.      Pertumbuhan dan perkembangan tubuh, yaitu bertambahnya berat dan tinggi badan dipengaruhi makanan yang dimakan dengan jumlah makanan dan kandungan gizi yang berbeda.
+3.      Pemeliharaan tubuh,  yaitu ketika tubuh treluka maka akan sembuh dalam beberapa hari. Hal itu karena makanan yang masuk kedalam tubuh akan menjadi bahan baku untuk mengganti bagian tubuh yang rusak tersebut.
+4.      Pertahanan tubuh, yaitu sebagai pertahanan tubuh dari penyakit. Jika selalu makan makanan yang sehat dan bergizi maka tubuh akan terhindar dari berbagai penyakit.
+Dari pernyataan ahli tersebut masih ada fungsi makanan yang lain, yaitu:
+a.       Pengatur proses-proses tubuh.
+b.      Mengatur metabolisme tubuh.
+c.       Sumber pembangun tubuh.
+
+3.      Zat-zat yang terkandung di dalam makanan
+1.      Karbohidrat
+Karbohidrat fungsi sebagai sumber energi utama bagi tubuh manusia dan mengatur metabolisme lemak dan membantu metabolisme lemak dan membantu pengeluaran feses.
+Sumber karbohidrat terdapat didalam bahan makanan, seperti jenis padi-padian, yaitu beras, gandum dan hasil olahannya (tepung, roti mi dan bihun) : jenis umbi-umbian, yaitu singkong, ubi jalar, talas kentang, sagu dan gandum : bahan rasa manis, yaitu maca-macam gula dan hasil olahannya seperti dodol, sirup dan gula-gula.
+2.      Lemak
+Menurut Karyadi dan Muhilal (1988:17) bahwasannya lemak berperan sebagai sumber dan cadangan energi, sumber lemak esensial, pelarut vitamin A, D, E dan K. Penyebab makanan mempunyai kelunakan-kekerasan (tekstur) khusus, penyebab lamanya pengosongan lambung, dan sebagai lapisan lemak tubuh di bawah kulit. Setiap makanan walaupun sebagian dengan jumlah yang sangat kecil, mengandung lemak. Minyak goreng, kacang-kacangan dan makanan hewani merupakan sumber lemak utama dalam hidangan. Setiap satu gram lemak setara dengan sembilan  kalori.
+Lemak ada dua macam yaitu lemak nabati dan lemak hewani. Lemak nabati berasal daritumbuhan dan Lemak hewani berasal dari hewan. Lemak dapat terdapat pada daging (lemak hewani) lemak yang berasal dari tumbuhan lebih baik dari lemak yang berasal dari hewan. Lemak yang berlebihan pada tubuh manusia akan mengakibatkan  terhambatnya aliran darah dipembuluh darah yang akan menyebabkan penyakit jantung dan darah tinggi.
+3.      Protein
+Protein merupakan bagian terbesar  dalam tubuh setelah air. Diperkirakan seperlima bagian tubuh adalah berupa protein.
+Menurut Sobardan dalam buku mengenal sehat (2008:13), fungsi protein yaitu:
+a.       Pengatur pertumbuhan, memperbaiki dan memelihara jaringan tubuh.
+b.      Membentuk berbagai zat penting didalam tubuh seperti hormon, enzim, dan antibodi.
+c.       Sumber energi.
+d.      Menetralkan racun yang masuk ke dalam tubuh.
+
+4.      Vitamin
+Vitamin berfungsi untuk pertumbuhan, perkembangan, pemeliharaan kesehatan, serta membantu mengatur berbagai proses kegiatan dalam tubuh, yaitu:
+-          Vitamin yang larut dalam lemak: Vitamin A, D, E dan K.
+-          Vitamin yang larut dalam air: Vitamin B dan C.
+5.      Mineral
+Garam-garam meineral diperlukan untuk zat  pelindung dan pembangun dalam jumlah yang kecil (hanya sedikit) tetapi mempunyai fungsi yang sangat penting karena bila kekurangan garam ini dapaat mempengaruhi bermacam-macam kegiatan dalam tubuh. Ke giatan dalam tubuh dapat berjalan dengan bantuan garam mineral yang diperlukan oleh tubuh diantaranya kalsium (Ca), fosfor (P), natrium (CI), kalsium (K), magnesium (Mg) dan  belerang (S).
+6.      Air
+Air merupakan kebutuhan utama bagi tubuh manusia. Air berfungsi sebgagai pelarut bahan makanan  dan berbagai zat , membentuk cairan tubuh, mengatur suhu tubuh, membentuk cairan tubuh, mencernakan makanan, mengangkut sisa-sisa pembakaran yang sudah tidak berfungsi lagi dalam tubuh. Kebutuhan air dalam rata-rata setiap orang adalah dua setengah liter per hari yang diambil dari makanan dan minuman. Kekurangan air dapat mengakibatkan penyakit ginjal.
+B.     Bahan-bahan Makanan
+1.      Makanan Pokok
+Indonesia yang luasa dihuni oleh berbagai suku bangsa, demikianlah tidak mengherankan bila kebiasaan makan dan susunan hidangannya  berbeda antara kelompok masyarakat. Bahan makanan pokoknya pun berbeda-beda, mulai dari sereal (beras, jagung gandum), Umbia-umbian singkong, ubi jalar), serta ekstra tepung (tepung sagu, tepung tapioka). Bahan makanan yang kaya karbohidrat (merupakan sumber tenaga) terdapat pada beras, jagung, sagu, singkong dan lain-lain.
+a.       Beras
+Beras merupakan cerminan pokok makanan pokok penduduk Indonesiayang dihasilkan dari padi yang ditanam disawah atau diladang. Beras (padi) dalam hidangan Indonesia merupakansumber utama energi dengan sedikit protein. Stiap 100 gram beras mengandung 73,8 gram karbohidrat, 7,6 protein, 1,1 gram lemak dan zat gizi lainnya.
+b.      Jagung
+Jagung merupakan bahan pengganti beras di beberapa daerah yang tidak menghasilkan padi.  Meskipun begitu jangung mempunyai nila gizi yang mirip dengan beras (padi). Sebenarnya kadar zat-zat gizi dalam jagung lebih tinggi, tetapi secara keseluruhan beras mempunyai kelebihan daripada jagung. Setiap 100 garam jagung mengandung 73,7 karbohidrat, 9,2 protein, 3,9 gram lemak dan zat gizi lainnya.
+c.       Sagu
+Pohon sagu dimanfaatkan untuk diambil tepung atau patinya yang terdapat dibagian tengah (hati) batang. Satu pohon sagu dapat menyediakan bahan makanan poko bagi sebuah keluarga yang terdiri atas lima orang dalam satu bulan. Setiap 100 gram tepung sagu mengandung 1,44 gram protein, 5,7 gram lemak, 0,4 karbohidrat dan zat gizi lainnya.
+d.      Singkong
+Singkong mengandung cadangan energi dalam bentuk karbohidrat. Setiap 100 gram singkong mengandung 1,6 gram protein, 0,4 gram lemak. 34,7  gram krabohidrat dan zat gizi lainnya.
+2.      Lauk Pauk
+Bahan lauk pauk merupakan sumber protein yang sangat tinggi karena mempunyai fungsi untuk pertumbuhan badan, mengganti sel-sel yang telah rusak serta untuk mempertahankan jaringan tubuh.
+a.       Lauk Pauk Hewani
+Lauk pauk hewani adalah bahan lauk paukk yang berasal dari hewan ternak (sapi, kambing, kerbau, babi), unggas (ayam, burung) dan ikan (ikan laut, ikan air tawar) termasuk juga susu dan telur.
+b.      Lauk Pauk Nabati
+Lauk pauk nabati adalah lauk pauk yang berasal dari bahan tumbuhan. Lauk pauk nabati mengandung banyak protein walaupun tidak sebanyak protein yang berasal dari hewan. Lauk pauk nabati ini terdiri atas golongan kacang-kacangan (kacang kedelai, kacang tanah, kacang hijau danlain-lain) dan hasil olahannya seperti tahu, tempe, oncom dan tauco.
+1.      Sayuran
+Sayuran merupakan sumber vitamin, mineral dan air. Sayuran merupakan pembasah makanan, terutama untuk melancarkan nasi supaya mudah ditelan. Selain itu sayuran pun dapat memberikan rasa segar sehingga banyak yang menyukainya. Sayuran bahan makanan yang berasal dari tumbuhan (bahan makanan nabati).
+2.      Buah-buahan
+3.      Buah-buahan merupakan sumber vitamin dan air. Bahan buah-buahan termasuk buah cuci mulut contohnya buah pisang, nanas, semangka, apel dan jeruk.
+A.    Makanan Sehat dalam Menu yang Seimbang
+Bahan makanan yang akan kita makan harus mengandung empat sehat lima sempurna. Bahan makanan empat sehat lima sempurna ialah sebagai berikut:
+(1)   Makanan pokok, sebagai sumber karbohidrat. Contohnya beras, jagung dan sagu.Berguna untuk sumber zat tenaga.
+(2)   Lauk pauk sebagai sumber protein dan lemak. Contohnya: daging, keju, telur dan ikan.
+(3)   Sayuran sebagai sumber vitamin, mineral dan air. Contohnya: bayam, kangkung, mentimun dan wortel. Berguna untuk sumber zat pelindung.
+(4)   Air susu, sebagai sumber protein, lemak vitamin, mineral dan air.
+
+B.     Memilih Bahan Makanan yang Sehat
+Tujuan dari pemilihan bahan makanan yang sehat adalah untuk mendapatkan bahan makanan yang bernilai tinnggi yaitu yang baik dan masih segar. Pemilihan bahan makanan bergantung kepada  beberapaa hal, diantaranya pengetahuan tentang bahan makanan, selera, kemampuan daya beli, musim, tidak mudah terayu olehpenjual dan yang akan dibeli disesuaikan dengan  perencanaan belanja atau menurut menu yang telah disusun sebelumnya.
+1.      Makanan Pokok
+Menurut Hanifa dan Luhfeni (2006) ciri-cirinya adalah sebagai berikut:
+(a)   Beras ketan yang baik ialah yang tidak digiling sempurna karena selaput ari masih melekat, kandungan vitamin B-nya masih ada.
+(b)   Jagung, pilihlah jagung yang berwarna kuning, oranye, dan ungu karena lebih baik daripada jagung yangberwarna putih! Pilihlah jagung yang daunnya yang masih segar.
+(c)   Singkong, pilih umbi yang putih kuning (singkong mentega) dan tidak pahit.
+(d)   Ubi jalar, pilih yang kuning atau merah ungu, masih warna asli karena yang sudah beerubah warna rasanya pun berbeda.
+(e)   Kentang, pilih kentang yangtidak terlalu banayk matanya dan berkulit bersih.
+Dengan komposisi yang lengkap  yang terdiri dari karbohidrat, lemak, protein, vitamin, mineral dan air maka pencernanaan tubuh akan lebih sehat dan bergizi.
+2.      Lauk Pauk
+(a)   Daging, pilih daging yang warnanya merah dan bening mengkilat, kelihatan segar dan tidak berbau atau tidak berbusuk, bungkus apabila ditekan (daya kenyalnya tinggi), serta tidak melekat! Lemaknya berwarna putih dan tidak berbintik hitam dengan kulitnya putih.
+(b)   Ikan: pilih ikan yang masih segar, insangnya merah, sisiknya utuh mengkilat, matanya benig dan menonjol keluar, segar atau tidak berbau busuk.
+(c)   Telur, pilih telurr yang berkulit tebal agar tidak mudah retak dan tidak terdapat bercak-bercak kapur yang tidak merata! Sebaiknya memilih telur yang berbentuk bulat (sdisalah satu ujungnya runcing dan ujung satunya tumpul).
+(d)   Ayam, pilih ayam yang baru dipotong, sisik kaki tidak keras, tidak memiliki koreng-koreng, masih segar, warna kulit dan daging kemerahan, bulu-bulu tidak dalam, tulang dada mudah ditekan menandakan ayam masih muda (jangan pilih ayam yang tua karena dagingnya akan liat).
+(e)   Kacang-kacangan, pilihlah yang mempunyai berat danukuran yang sama besartidak berulat atau berkutu, bersih, butirnya tidak mengelupas, tidak bercampur dengan kotoran tanah atau pasir, tidak banayk pembungkus bijinya.
+3.      Sayuran
+Pilih sayuran yang masih segar,daunnya yang masih utuh, tidak robek-robek atau bolong bekas dimakan ulat, warna daun hijau tidak layu atau busuk. Sayuran yang masih segar warnanya cemerlang.
+4.      Buah-buahan
+Pilih buah yang masih segar, tidak busuk, tidak lembek atau bonyok, tidak mengkerut dan berjamur, cukup tua kulit mengkilat dan tidak berulat dan padat.
+
+BAB 3
+PENUTUP
+A.    Simpulan
+Dari penjelasan diatas penulis menyimpulkan bahwa makanan sehat adalah makanan yang memenuhi kebutuhan akan tubuh manusia dari berbagai zat, seperti protein, lemak, mineral, air, vitamin dan karbohidrat. Melalui makanan tersebut yang memenuhi zat gizi membuat tubuh manusia sehat dengan cara memilih makanan yang sehat dan bersih.
+B.     Saran
+Kita harus berhati-hati dalammemilih makanan dan tahu seberapa penting makanan itu mengandung zat gizi atau tidak seperti yang dibutuhkan oleh tubuh manusia dalam kadar bentuk yang berbeda-beda. Serta kita harus rajin berdo’a kepada Allah swt agar dihindarkan dari berbagai macam makanan yang tidak sehat.

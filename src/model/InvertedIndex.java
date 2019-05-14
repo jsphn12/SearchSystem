@@ -21,6 +21,10 @@ public class InvertedIndex {
 
     private ArrayList<Document> listOfDocument = new ArrayList<Document>();
     private ArrayList<Term> dictionary = new ArrayList<Term>();
+    private ArrayList<Cluster> cluster = new ArrayList<Cluster>();
+    public static final int NUMBER_OF_DOCUMENT_CLUSTER = 2;
+    
+   
 
     public InvertedIndex() {
     }
