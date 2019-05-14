@@ -32,6 +32,9 @@ public class Document implements Comparable<Document> {
     private String title;
     
     private ArrayList<Posting> listOfPosting = new ArrayList<Posting>();
+    // list posting untuk keperluan clustering document
+    
+
 
     public Document() {
     }
@@ -203,4 +206,22 @@ public class Document implements Comparable<Document> {
         }
         content = sb.toString();
     }
+
+    public String getRealContent() {
+        return realContent;
+    }
+
+    public void setRealContent(String realContent) {
+        this.realContent = realContent;
+    }
+
+    public ArrayList<Posting> getListOfPosting() {
+        return listOfPosting;
+    }
+
+    public void setListOfPosting(ArrayList<Posting> listOfPosting) {
+        this.listOfPosting = listOfPosting;
+    }
+    
+    
 }

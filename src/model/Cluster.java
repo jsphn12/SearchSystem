@@ -12,43 +12,37 @@ import java.util.ArrayList;
  * @author Josphine
  */
 public class Cluster {
-    private ArrayList<Document> member = new ArrayList<Document>();
+   private ArrayList<Document> member = new ArrayList<Document>();
     private Document center = new Document();
-    private ArrayList<Document> listOfDocument = new ArrayList<Document>();
 
-    public ArrayList<Document> getListOfDocument() {
-        return listOfDocument;
+    public Cluster() {
     }
 
-    public void setListOfDocument(ArrayList<Document> listOfDocument) {
-        this.listOfDocument = listOfDocument;
-    }
-    
-    public Cluster(){
-        
-    }
-
+    /**
+     * @return the member
+     */
     public ArrayList<Document> getMember() {
         return member;
     }
 
+    /**
+     * @param member the member to set
+     */
     public void setMember(ArrayList<Document> member) {
         this.member = member;
     }
 
+    /**
+     * @return the center
+     */
     public Document getCenter() {
         return center;
     }
 
+    /**
+     * @param center the center to set
+     */
     public void setCenter(Document center) {
         this.center = center;
     }
-    
-    public void preClustering(){
-        //baca seluruh dokumen
-        for(Document temp : listOfDocument){
-            // baca l
-        }
-    }
-    
 }
