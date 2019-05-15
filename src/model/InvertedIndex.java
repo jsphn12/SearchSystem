@@ -382,15 +382,15 @@ public class InvertedIndex {
         this.cluster = cluster;
     }
 
-    public void preClustering(){
-        // baca seluruh document
-        for(int i=0;i<listOfDocument.size();i++){
-            // baca idDoc
-            int idDoc = listOfDocument.get(i).getId();
-            // buat posting dengan nilai TF-IDFnya
-            listOfDocument.get(i).setListOfPosting(makeTFIDF(idDoc));
-            
-        }
-    }
+//    public void preClustering(){
+//        // baca seluruh document
+//        for(int i=0;i<listOfDocument.size();i++){
+//            // baca idDoc
+//            int idDoc = listOfDocument.get(i).getId();
+//            // buat posting dengan nilai TF-IDFnya
+//            listOfDocument.get(i).setListOfPosting(makeTFIDF(idDoc));
+//            
+//        }
+//    }
     
 }

@@ -250,7 +250,7 @@ public class Main extends javax.swing.JFrame {
     }
     
     public void loadData() throws IOException{
-        File directory = new File("D:\\SearchingSystemMachine\\File Dokumen");
+        File directory = new File("D:\\Project Mandiri\\SearchingSystemMachine\\File Dokumen");
         index.readDirectory(directory);
     }
 
