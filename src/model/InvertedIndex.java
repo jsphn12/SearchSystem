@@ -301,7 +301,7 @@ public class InvertedIndex {
         for (int i = 0; i < posting.size(); i++) {
             result += Math.pow(posting.get(i).getWeight(), 2);
         }
-        return Math.sqrt(result);
+        return (result);
     }
 
     public double getCosineSimilarity(ArrayList<Posting> posting, ArrayList<Posting> posting1) {
